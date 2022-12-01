@@ -1,5 +1,5 @@
 ## Welcome to my profile!
-### My name is Adrian and I am 16 years old boy from Romania
+### My name is Adrian and I am a 16 years old boy from Romania
 ### My coding journey has just begun, for now I only know:
 - Python (basic syntax)
 - Java (basic syntax)
